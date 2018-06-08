@@ -1,0 +1,6 @@
+[package]
+name = "pingpong"
+version = "0.1.0"
+authors = ["Harada, Tomoyuki <harada.tomoyuki@jp.fujitsu.com>"]
+
+[dependencies]
